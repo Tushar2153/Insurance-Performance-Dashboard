@@ -45,10 +45,10 @@ insurance-data-dashboard/ ├── insurance-analysis.pbix # Power BI dashboard
 ## 📸 Dashboard Preview
 
 ### 🔍 Main Overview  
-![Dashboard Overview](assets/dashboard-preview.png)
+![Dashboard Overview](assets/dashboard-preview.PNG)
 
 ### 💬 Sentiment Analysis  
-![Sentiment Overview](assets/sentiment-overview.png)
+![Sentiment Overview](assets/sentiment-overview.PNG)
 
 ---
 
